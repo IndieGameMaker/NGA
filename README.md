@@ -9,7 +9,3 @@
 [혈흔효과](https://drive.google.com/open?id=1rHlPeo7iZqiLR-N-MD0PFg7Owt1qa8xO)
 
 ## 일자별 강의 소스
-
-[07월28일 강의소스](https://drive.google.com/open?id=12SJeGQmGhaW3fIStc-mdtlwNfiX4Oxa3)
-
-[08월04일 강의소스](https://drive.google.com/open?id=190VVCdKXyHg5JlCrK9qmuMTsIbNcuz9M)
