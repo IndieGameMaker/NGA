@@ -9,3 +9,5 @@
 [혈흔효과](https://drive.google.com/open?id=1rHlPeo7iZqiLR-N-MD0PFg7Owt1qa8xO)
 
 ## 일자별 강의 소스
+
+[SpaceShooter 강의소스 Github](http://github.com/indiegamemaker/nga_project)
